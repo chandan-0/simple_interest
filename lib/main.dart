@@ -20,7 +20,7 @@ class SIForm extends StatefulWidget {
   }
 }
 
-//------------------------ Very Important Function -----------------------------
+//------------------------ Very Important Class -----------------------------
 
 class _SIFormState extends State<SIForm> {
 
